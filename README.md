@@ -12,3 +12,31 @@ id, class, style and name. So I created a language as simple as markdown,
 but you can add this. The name isthe union if Teddy the name of my dog and
 mark because is a Markup language
 
+## Tags
+
+Also thera are more tags in TeddyMark then markdown, if you want to put a form 
+you can use this:
+
+```
+{[]}
+  ???(type="text")???
+{[]}
+```
+
+But Lets start in the start. If you want to put a title in markdown you use this:
+
+```
+# Title
+```
+
+In TeddyMark
+
+```
+# Title #
+```
+
+And if you want to put an Id:
+
+```
+#(id="id") Title #
+```
