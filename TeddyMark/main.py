@@ -81,7 +81,9 @@ def main():
 		if a.strip() == 'imperative':
 			os.system(conf.systemClear())
 			imperative()
-			continue
+			continue	
+		if a.strip() == 'exit':
+                	break
 		compile(a)
 ######
 main()
