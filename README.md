@@ -48,3 +48,5 @@ And if you want to put an Id:
 ## Links:
 
 * [Tags](https://github.com/leosavioli2019/TeddyMark/blob/main/Tests/tags.md)
+* [License](https://raw.githubusercontent.com/leosavioli2019/TeddyMark/main/licese.txt)
+* [Examples](https://github.com/leosavioli2019/TeddyMark/tree/main/Tests)
