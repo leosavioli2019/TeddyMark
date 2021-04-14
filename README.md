@@ -5,7 +5,7 @@ A simple hypertext language based on [Markdown](https://github.com/topics/markdo
 ![](https://user-images.githubusercontent.com/78567822/114287385-ca703a80-9a3c-11eb-875a-64f560635e68.png)
 
 
-![](https://user-images.githubusercontent.com/78567822/114769174-3b1a9e00-9d40-11eb-879b-29aab3101c2d.mp4)
+![How To use](https://user-images.githubusercontent.com/78567822/114769174-3b1a9e00-9d40-11eb-879b-29aab3101c2d.mp4)
 
 
 
