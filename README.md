@@ -47,4 +47,4 @@ And if you want to put an Id:
 
 ## Links:
 
-* Tags: [](https://github.com/leosavioli2019/TeddyMark/blob/main/Tests/tags.md)
+* [Tags](https://github.com/leosavioli2019/TeddyMark/blob/main/Tests/tags.md)
