@@ -8,8 +8,6 @@ A simple hypertext language based on [Markdown](https://github.com/topics/markdo
 
 ![How To use](teddymark.gif)
 
-
-
 ## Why?
 
 HTML is a very verbose language and is very difficult fore starters,
@@ -46,3 +44,7 @@ And if you want to put an Id:
 ```
 #(id="id") Title #
 ```
+
+## Links:
+
+* Tags: [](https://github.com/leosavioli2019/TeddyMark/blob/main/Tests/tags.md)
