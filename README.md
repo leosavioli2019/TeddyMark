@@ -13,7 +13,7 @@ A simple hypertext language based on [Markdown](https://github.com/topics/markdo
 HTML is a very verbose language and is very difficult fore starters,
 and markdown is very very simple, but you can not put atributes, like:
 id, class, style and name. So I created a language as simple as markdown,
-but you can add this. The name is the union if Teddy the name of my dog and
+but you can add this. The name is the union of Teddy the name of my dog and
 mark because is a Markup language
 
 ## Tags
